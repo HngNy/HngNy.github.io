@@ -16,7 +16,7 @@ export default function ProjectCard({ project, locale = "vi" }: ProjectCardProps
       href={localePath(locale, `/projects/${project.slugAsParams}`)}
       image={project.image}
       // Employer tag is shown on the detail page only
-      tags={project.tags.filter((tag) => tag !== "Puramu")}
+      tags={project.tags}
       links={project.links}
       locale={locale}
     />
