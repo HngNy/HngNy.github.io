@@ -18,6 +18,9 @@ export const experiencesConfigVi: Experience[] = [
       "Tư vấn cho khách hàng, nhận phản hồi và đưa ra giải pháp chăm sóc khách hàng",
       "Theo dõi đơn hàng, xử lý tình trạng tồn kho, phối hợp với kho xử lý khiếu nại / hoàn trả",
       "Xử lý dữ liệu mã sản phẩm, giá bán, tồn kho, trạng thái đơn hàng trên Google Sheets",
+      "Tính giá bán cạnh tranh: tổng hợp giá vốn, phí sàn (phí cố định, phí xử lý giao dịch, Voucher Xtra…) và giá đối thủ để đề xuất mức giá vẫn đảm bảo lợi nhuận",
+      "Tạo chiến dịch quảng cáo trên sàn: chọn sản phẩm, từ khóa, ngân sách và giá thầu",
+      "Đọc các chỉ số quảng cáo cơ bản (CTR, CPC, tỷ lệ chuyển đổi, ROAS, ACOS) để theo dõi hiệu quả chiến dịch",
     ],
   },
   {

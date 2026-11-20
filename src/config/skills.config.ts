@@ -1,11 +1,11 @@
 export const skillsConfig = [
   {
     category: "E-commerce",
-    technologies: ["TikTok Shop", "Shopee", "Product Listing", "Inventory Control", "Orders & Returns"],
+    technologies: ["TikTok Shop", "Shopee", "Product Listing", "Competitive Pricing", "Inventory Control", "Orders & Returns"],
   },
   {
     category: "Marketing",
-    technologies: ["Meta Ads (fundamentals)", "Facebook"],
+    technologies: ["Marketplace Ads Campaigns", "Ad Metrics (CTR, CPC, ROAS)", "Meta Ads (fundamentals)", "Facebook"],
   },
   {
     category: "Data & Office",

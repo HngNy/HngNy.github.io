@@ -16,7 +16,10 @@ const skillCategoryVi: Record<string, string> = {
 
 const skillItemVi: Record<string, string> = {
   "Product Listing": "Đăng & tối ưu sản phẩm",
+  "Competitive Pricing": "Tính giá bán cạnh tranh",
   "Inventory Control": "Quản lý tồn kho",
+  "Marketplace Ads Campaigns": "Tạo chiến dịch quảng cáo sàn",
+  "Ad Metrics (CTR, CPC, ROAS)": "Đọc chỉ số ads (CTR, CPC, ROAS)",
   "Orders & Returns": "Xử lý đơn & hoàn trả",
   "Meta Ads (fundamentals)": "Meta Ads (nền tảng)",
   "MS Office": "Tin học văn phòng",

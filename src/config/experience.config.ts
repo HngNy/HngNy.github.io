@@ -18,6 +18,9 @@ export const experiencesConfig: Experience[] = [
       "Advised customers, collected their feedback and proposed suitable care solutions",
       "Tracked orders and stock levels, and worked with the warehouse on complaints and returns",
       "Maintained SKU, price, inventory and order-status data in Google Sheets",
+      "Calculated competitive selling prices from product cost, marketplace fees (fixed, transaction, Voucher Xtra…) and competitor prices, keeping a healthy margin",
+      "Set up marketplace ad campaigns: chose products, keywords, budgets and bids",
+      "Read basic ad metrics (CTR, CPC, conversion rate, ROAS, ACOS) to track campaign performance",
     ],
   },
   {
